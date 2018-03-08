@@ -8,7 +8,7 @@ Email: 327928971@qq.com
 
 ---
 
-![NodeMCU](http://raw.githubusercontent.com/jokin1999/NodeMCU-ScreenController/master/sc.jpg)
+![NodeMCU](https://raw.githubusercontent.com/jokin1999/NodeMCU-ScreenController/master/sc.jpg)
 
 ---
 
