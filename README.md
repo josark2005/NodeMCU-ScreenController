@@ -96,12 +96,12 @@ Email: 327928971@qq.com
 
 ## 线路连接
 
-|NodeMCU|Screen|
+|Screen|NodeMCU|
 |:-:|:-:|
 |GND|GND|
-|VCC|3V~5V电源|
-|D0|HSCLK (D5)|
-|D1|HMOSI (D7)|
+|VCC|3V3|
+|SCK|HSCLK(D5)|
+|SDA|HMOSI(D7)|
 |RES|D0|
 |DC|D2|
 |CS|HCS(D8)|
